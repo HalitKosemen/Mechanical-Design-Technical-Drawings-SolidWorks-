@@ -2,19 +2,19 @@
 
 <img src="https://github.com/user-attachments/assets/f1fea7b3-361b-478c-8ef7-cafcdcac0e5e"
      alt="Mechanical Drawing"
-     width="200"/>
+     width="300"/>
 <img src="https://github.com/user-attachments/assets/2fe18b2f-484e-4135-b907-ff78428a0916"
      alt="Mechanical Drawing"
      width="500"/>
 <img src="https://github.com/user-attachments/assets/f50f8530-4fcf-456f-846f-d62118779d8e"
      alt="Mechanical Drawing"
-     width="200"/>
+     width="400"/>
 <img src="https://github.com/user-attachments/assets/e9f90517-6f61-4513-81ae-a448ca6c2a84"
      alt="Mechanical Drawing"
-     width="200"/>
+     width="400"/>
 <img src="https://github.com/user-attachments/assets/3c4c877a-ed0b-4ba9-9b40-9b9e0c5a92ca"
      alt="Mechanical Drawing"
-     width="200"/>
+     width="350"/>
 <img src="https://github.com/user-attachments/assets/e78948c5-bef9-49b5-93f0-9785d5870bba"
      alt="Mechanical Drawing"
      width="200"/>
