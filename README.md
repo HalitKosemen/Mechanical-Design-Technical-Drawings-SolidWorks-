@@ -1,11 +1,11 @@
 🛠️ Mechanical Design & Technical Drawings (SolidWorks)
 
+
 <p align="left">
   <img src="https://github.com/user-attachments/assets/f1fea7b3-361b-478c-8ef7-cafcdcac0e5e"
        alt="Technical Drawing 1"
        style="width:450px; height:300px; object-fit:contain; margin:6px;" />
-</p>
-<p align="center">
+  
   <img src="https://github.com/user-attachments/assets/2fe18b2f-484e-4135-b907-ff78428a0916"
        alt="Technical Drawing 2"
        style="width:450px; height:250px; object-fit:contain; margin:3px;" />
