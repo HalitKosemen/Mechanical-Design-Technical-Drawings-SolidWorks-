@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/f1fea7b3-361b-478c-8ef7-cafcdcac0e5e"
      alt="Mechanical Drawing"
-     width="700"/>
+     width="200"/>
 
 
 ## 🌐 Socials:
