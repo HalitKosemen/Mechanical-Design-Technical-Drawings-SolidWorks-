@@ -9,8 +9,7 @@
      height="200"/>
 <img src="https://github.com/user-attachments/assets/f50f8530-4fcf-456f-846f-d62118779d8e"
      alt="Mechanical Drawing"
-     width="200"
-     height="200"/>
+     width="200" height="200"/>
 <img src="https://github.com/user-attachments/assets/e9f90517-6f61-4513-81ae-a448ca6c2a84"
      alt="Mechanical Drawing"
      width="200"/>
