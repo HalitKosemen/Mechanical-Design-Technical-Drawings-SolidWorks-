@@ -3,11 +3,11 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f1fea7b3-361b-478c-8ef7-cafcdcac0e5e"
        alt="Technical Drawing 1"
-       style="width:250px; height:250px; object-fit:contain; margin:8px;" />
+       style="width:450px; height:450px; object-fit:contain; margin:3px;" />
 
   <img src="https://github.com/user-attachments/assets/2fe18b2f-484e-4135-b907-ff78428a0916"
        alt="Technical Drawing 2"
-       style="width:250px; height:250px; object-fit:contain; margin:8px;" />
+       style="width:250px; height:450px; object-fit:contain; margin:3px;" />
 
   <img src="https://github.com/user-attachments/assets/f50f8530-4fcf-456f-846f-d62118779d8e"
        alt="Technical Drawing 3"
