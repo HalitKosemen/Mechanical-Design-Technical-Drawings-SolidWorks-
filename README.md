@@ -5,7 +5,7 @@
      width="200"/>
 <img src="https://github.com/user-attachments/assets/2fe18b2f-484e-4135-b907-ff78428a0916"
      alt="Mechanical Drawing"
-     width="200"/>
+     width="500"/>
 <img src="https://github.com/user-attachments/assets/f50f8530-4fcf-456f-846f-d62118779d8e"
      alt="Mechanical Drawing"
      width="200"/>
